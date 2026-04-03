@@ -18,7 +18,7 @@ This project aims to reduce manual work, improve accuracy, and provide a user-fr
 
 * 💰 **Fee Management**
   Track fee payments, dues, and generate reports.
-
+  
 * 📝 **Complaint System**
   Students can raise complaints; admins can manage and resolve them.
 
